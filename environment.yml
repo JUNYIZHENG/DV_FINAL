@@ -1,0 +1,12 @@
+name: datavisualization
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - ipywidgets
+  - seaborn
+  - pandas
+  - bqplot
+  - datetime
+  - string
