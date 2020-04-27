@@ -1,1 +1,8 @@
-
+  numpy
+  matplotlib
+  ipywidgets
+  seaborn
+  pandas
+  bqplot
+  datetime
+  string
