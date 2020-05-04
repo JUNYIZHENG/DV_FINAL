@@ -9,5 +9,11 @@ dependencies:
   - seaborn
   - pandas
   - bqplot
-  - datetime
-  - string
+  #- datetime
+  #- string
+  - pip
+  - pip:
+    - datetime
+    - string
+
+    
